@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsiu1248
+- 👋 Hi, I’m Jonathan @jsiu1248
 - 👀 I’m interested in data analysis, data engineering, and software engineering. 
 - 💞️ I’m looking to collaborate on working on building portfolios together. 
 - 📫 How to reach me jsiu1248@gmail.com
